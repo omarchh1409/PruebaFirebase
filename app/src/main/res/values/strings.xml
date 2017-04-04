@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaFirebase</string>
+    <string name="facebook_app_id">175319906320661</string>
+    <string name="cancel_login">Hubo un error en la identificacion</string>
+    <string name="error_login">Hubo un error en la identificacion</string>
+    <string name="firebase_error_login">Error en firebase</string>
+</resources>
